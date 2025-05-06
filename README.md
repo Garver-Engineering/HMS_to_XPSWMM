@@ -1,6 +1,6 @@
 # Import Excel File which was a DSS export, and look at wanted output format for XPSWMM External data
 
-### The DSS data is exported to Excel via DSSVue and then can be read into pytho using pandas
+### The DSS data is exported to Excel via DSSVue and then can be read into python using pandas
 
 Station IDs were assigned in the excel file along the header row to use instead of the DSS B-PART. The Station ID matches the node ID witin the XPSWMM model.
 
